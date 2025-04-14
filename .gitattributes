@@ -1,3 +1,4 @@
 Homework filter=lfs diff=lfs merge=lfs -text
 **/FirstHomework.sln filter=lfs diff=lfs merge=lfs -text
 **/SecondHomework.sln filter=lfs diff=lfs merge=lfs -text
+**/ThirdHomework.sln filter=lfs diff=lfs merge=lfs -text
